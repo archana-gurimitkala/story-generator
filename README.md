@@ -2,6 +2,13 @@
 
 An AI-powered story generator built with OpenAI and Gradio.
 
+## Demo
+
+Watch the demo videos to see the story generator in action:
+
+- [Demo 1](demo1.mp4) - Story generation with illustrations
+- [Demo 2](demo2.mp4) - Interactive story creation
+
 ## Features
 
 - 🤖 AI-powered story generation using OpenAI GPT-4o-mini
