@@ -2,6 +2,12 @@
 
 An AI-powered story generator built with OpenAI and Gradio.
 
+## Demo
+
+Watch the demo video to see the story generator in action:
+
+https://github.com/archana-gurimitkala/story-generator/blob/main/demo.mp4
+
 ## Features
 
 - 🤖 AI-powered story generation using OpenAI GPT-4o-mini
@@ -75,4 +81,5 @@ If you encounter audio issues, you can comment out the `talker()` function call 
 ## License
 
 Open source project - feel free to use and modify as needed.
+
 
