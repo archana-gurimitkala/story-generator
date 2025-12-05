@@ -9,6 +9,8 @@ Watch the demo videos to see the story generator in action:
 - [Demo 1](demo1.mp4) - Story generation with illustrations
 - [Demo 2](demo2.mp4) - Interactive story creation
 
+**Note:** If GitHub shows "Sorry about that, but we can't show files that are this big right now", click on the video link and then click **"View raw"** button to watch the video.
+
 ## Features
 
 - 🤖 AI-powered story generation using OpenAI GPT-4o-mini
