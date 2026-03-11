@@ -1,6 +1,6 @@
 # Story Generator
 
-An AI-powered story generator built with OpenAI and Gradio.
+This started as me wanting to play with function calling in OpenAI's API and turned into something genuinely fun to demo. You describe a story — a fantasy adventure, a mystery, whatever — and it writes it with GPT-4o-mini, generates a matching illustration with DALL-E 3, and reads it out loud using TTS. A good example of chaining multiple AI capabilities into something that feels like a real product.
 
 ## Demo
 
